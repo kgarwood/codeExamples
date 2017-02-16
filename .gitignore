@@ -1,0 +1,10 @@
+
+
+#Ignore java classes
+**/*.class
+
+#eclipse-specific git ignore settings
+.metadata
+.project
+.classpath
+.settings/
