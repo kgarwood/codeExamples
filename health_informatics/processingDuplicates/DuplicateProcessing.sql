@@ -52,6 +52,7 @@
  * catch more duplicates.
  *
  * ----------------------------------------------------------------------
+ * Copyright 2017, Imperial College.
  * This code has been open sourced under the terms of the GNU Lesser 
  * General Public License as published by the Free Software Foundation, 
  * either version 3 of the License, or (at your option) any later version.
